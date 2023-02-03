@@ -12,8 +12,8 @@ Link : https://orelmizrahii.github.io/Web-AI-Archive/
 Home Page
 ![Screenshot](Screenshot_1.png)
 Blog Page
-![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
 The List Page
-![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_3.png)
 About Page
-![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_4.png)
