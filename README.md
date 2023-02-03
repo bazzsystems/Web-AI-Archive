@@ -1,2 +1,19 @@
-# AI-Archive
- data collected by AI Archive includes information about the design and architecture of AI systems, their performance and capabilities, and the impact they have had on society. This data is stored in a secure and accessible format, making it easy for researchers and developers to access and use for their own work.
+AI Archive is a website focused on preserving the history and knowledge of artificial intelligence (AI) systems. It offers a comprehensive archive of AI systems,
+
+including information about their design, performance, and impact on society. The data is stored in a secure and accessible format for easy access by researchers and 
+
+developers. The website also provides valuable insights into the evolution of AI and its future by analyzing the data in its archive. Whether you are a researcher, 
+
+developer, or interested in the impact of AI on society, AI Archive is a valuable resource.
+
+Link : https://orelmizrahii.github.io/Web-AI-Archive/
+
+
+Home Page
+![Screenshot](Screenshot_1.png)
+Blog Page
+![Screenshot](Screenshot_2.png)
+The List Page
+![Screenshot](Screenshot_3.png)
+About Page
+![Screenshot](Screenshot_4.png)
